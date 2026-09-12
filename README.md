@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![CI Pipeline](https://github.com/your-org/TreeStrat/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
 
+Streamlit link: https://treestrat-app-decision-tree-ensemble-business-studio.streamlit.app/
+
 > **TreeStrat** is an open-source, interactive web application designed for data scientists, business analysts, and managers. It provides a guided, no-code/low-code environment to prepare data, train decision trees and ensemble algorithms, evaluate performance through cost-weighted business metrics, interpret key drivers, and convert ML results into **actionable executive business strategy roadmaps via Generative AI prompts**.
 
 ---
