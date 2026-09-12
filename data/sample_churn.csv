@@ -1,0 +1,41 @@
+customer_id,age,gender,tenure,monthly_charges,total_charges,contract_type,payment_method,support_calls,satisfaction_score,constant_col,churn
+CUST_0001,42,Female,12,65.5,786.0,Month-to-month,Credit Card,3,2,FixedValue,1
+CUST_0002,31,Male,24,45.0,1080.0,One year,Bank Transfer,1,4,FixedValue,0
+CUST_0003,58,Female,3,89.9,269.7,Month-to-month,Electronic Check,5,1,FixedValue,1
+CUST_0004,22,Male,36,20.2,727.2,Two year,Credit Card,0,5,FixedValue,0
+CUST_0005,47,Female,8,95.0,760.0,Month-to-month,Electronic Check,4,2,FixedValue,1
+CUST_0006,35,Male,18,55.4,997.2,One year,Bank Transfer,2,3,FixedValue,0
+CUST_0007,63,Female,60,110.0,6600.0,Two year,Credit Card,1,5,FixedValue,0
+CUST_0008,29,Male,5,70.1,350.5,Month-to-month,Electronic Check,6,1,FixedValue,1
+CUST_0009,51,Female,48,85.2,4089.6,Two year,Bank Transfer,0,4,FixedValue,0
+CUST_0001,42,Female,12,65.5,786.0,Month-to-month,Credit Card,3,2,FixedValue,1
+CUST_0011,38,Male,15,60.0,900.0,Month-to-month,Electronic Check,3,2,FixedValue,1
+CUST_0012,45,Female,2,75.3,,Month-to-month,Electronic Check,4,1,FixedValue,1
+CUST_0013,26,Male,40,30.0,1200.0,Two year,Credit Card,1,4,FixedValue,0
+CUST_0014,54,Female,1,92.0,92.0,Month-to-month,Electronic Check,7,1,FixedValue,1
+CUST_0015,33,Male,22,50.0,1100.0,One year,Bank Transfer,2,3,FixedValue,0
+CUST_0016,60,Female,55,105.0,5775.0,Two year,Bank Transfer,0,5,FixedValue,0
+CUST_0017,28,Male,7,68.0,476.0,Month-to-month,Electronic Check,4,2,FixedValue,1
+CUST_0018,49,Female,14,80.0,1120.0,Month-to-month,Credit Card,3,2,FixedValue,1
+CUST_0019,39,Male,30,62.0,1860.0,One year,Bank Transfer,1,4,FixedValue,0
+CUST_0020,52,Female,5,88.5,442.5,Month-to-month,Electronic Check,5,1,FixedValue,1
+CUST_0021,24,Male,11,40.0,440.0,Month-to-month,Credit Card,2,3,FixedValue,0
+CUST_0022,41,Female,33,78.0,2574.0,One year,Bank Transfer,1,4,FixedValue,0
+CUST_0023,57,Male,9,98.0,882.0,Month-to-month,Electronic Check,6,1,FixedValue,1
+CUST_0024,30,Female,50,25.0,1250.0,Two year,Credit Card,0,5,FixedValue,0
+CUST_0025,46,Male,16,72.0,1152.0,Month-to-month,Electronic Check,4,2,FixedValue,1
+CUST_0026,34,Female,28,58.0,1624.0,One year,Bank Transfer,2,4,FixedValue,0
+CUST_0027,61,Male,4,102.0,408.0,Month-to-month,Electronic Check,5,1,FixedValue,1
+CUST_0028,27,Female,45,35.0,1575.0,Two year,Credit Card,1,5,FixedValue,0
+CUST_0029,50,Male,10,84.0,840.0,Month-to-month,Electronic Check,4,2,FixedValue,1
+CUST_0030,36,Female,21,64.0,1344.0,One year,Bank Transfer,2,3,FixedValue,0
+CUST_0031,55,Male,2,91.5,183.0,Month-to-month,Electronic Check,6,1,FixedValue,1
+CUST_0032,23,Female,38,22.0,836.0,Two year,Credit Card,0,4,FixedValue,0
+CUST_0033,48,Male,13,79.0,1027.0,Month-to-month,Credit Card,3,2,FixedValue,1
+CUST_0034,32,Female,29,59.0,1711.0,One year,Bank Transfer,1,4,FixedValue,0
+CUST_0035,59,Male,6,99.0,594.0,Month-to-month,Electronic Check,5,1,FixedValue,1
+CUST_0036,25,Female,42,28.0,1176.0,Two year,Credit Card,0,5,FixedValue,0
+CUST_0037,44,Male,17,73.0,1241.0,Month-to-month,Electronic Check,4,2,FixedValue,1
+CUST_0038,37,Female,25,61.0,1525.0,One year,Bank Transfer,2,3,FixedValue,0
+CUST_0039,62,Male,52,108.0,5616.0,Two year,Bank Transfer,0,5,FixedValue,0
+CUST_0040,29,Female,8,86.0,688.0,Month-to-month,Electronic Check,5,1,FixedValue,1
